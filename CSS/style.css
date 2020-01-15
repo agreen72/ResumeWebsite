@@ -1,0 +1,52 @@
+
+.heading{
+    background-color:#577e45;
+    overflow:auto;    
+    border-radius: 10px;
+    color: lightgrey;
+}
+.heading a{
+    color:black;
+}
+#myinfo{
+    text-align: left;
+    padding: 50px 5px;
+}
+#myimg{
+    float: right;
+    display: block;
+    margin-right: 5%;
+}
+#headlinks{
+    display: inline;
+    text-align: center;    
+    padding: 5px 5px;
+    background-color: lightgrey;
+    border-radius: 10px;
+    margin:5px;
+}
+#Education div{
+    padding:10px;
+    margin:auto;
+}
+.content{
+    padding: 0 15px;
+    background-color:lightgray;
+    border-radius:10px;
+}
+h1{
+    border-bottom-style: solid;
+}
+h2{
+    border-left-style: dotted;
+    border-left-color: white;
+    border-top-style: dotted;
+    border-top-color: white;
+}
+h3{
+    border-left-style: double;
+    border-left-color: white;
+}
+.workDetail{
+    display:none;
+}
